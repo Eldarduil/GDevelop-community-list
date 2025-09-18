@@ -18,7 +18,6 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Encrypted Storage](https://pandako.itch.io/es4gd)                                                   | By using this extension, you can easily implement save data obfuscation and tamper prevention in your game. | [PANDAKO](https://pandako.itch.io/)                                 |
 | [Trigger Once Condition for Object](https://github.com/PANDAKO-GitHub/TriggerOnceConditionForObject) | This behavior adds a "Trigger once per instance" condition to the object (instance).                        | [PANDAKO](https://pandako.itch.io/)                                 |
 | [If Else](https://github.com/UlisesFreitas/If-Else-for-GDevelop)                                     | Compare variables with an if/else notation.                                                                 | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
-| [Hash](https://github.com/DrZanuff/GDevelopHashExtension)                                            | Hash with MD5 or SHA256.                                                                                    | [DrZanuff](https://github.com/DrZanuff/GDevelopHashExtension)       |
 
 ## Audio
 
@@ -128,3 +127,11 @@ If you’d like to have your extension included in the community list, you can d
 
 > [!NOTE]
 > All **developers are welcome** to submit their extensions to the list. Please note that while the repository maintainers will not perform a full code review, any listed extension must be **safe to use** (no malware) and must not contain **illegal or harmful content**. Ensuring basic safety is essential to maintaining a trusted collection of community-contributed extensions.
+
+## Suggesting your extension to the GDevelop experimental extensions repository
+
+Official, reviewed and experimental extensions for GDevelop are available on the [GDevelop Extensions](https://github.com/GDevelopApp/GDevelop-extensions) repository.
+These are the extensions accessible directly from the GDevelop interface.
+
+If your extension is mature enough, bug-free, modular and used by a lot of users already, you can suggest it to be added in the experimental extensions.
+Note that experimental extensions are peer-reviewed and will need to follow some guidelines to ensure they can be maintained and work in future GDevelop releases.
