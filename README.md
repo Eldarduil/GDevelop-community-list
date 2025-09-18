@@ -133,5 +133,5 @@ If you’d like to have your extension included in the community list, you can d
 Official, reviewed and experimental extensions for GDevelop are available on the [GDevelop Extensions](https://github.com/GDevelopApp/GDevelop-extensions) repository.
 These are the extensions accessible directly from the GDevelop interface.
 
-If your extension is mature enough, bug-free, modular and used by a lot of users already, you can suggest it to be added in the experimental extensions.
+If your extension is game-tested, bug free, modular, and already used by some game creators, you can suggest adding it to the experimental extensions list in engine.
 Note that experimental extensions are peer-reviewed and will need to follow some guidelines to ensure they can be maintained and work in future GDevelop releases.
