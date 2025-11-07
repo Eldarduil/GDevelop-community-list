@@ -108,7 +108,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Dynamic Dialog Box](https://ajotanc.itch.io/dynamic-dialog-box)                                          | Create a dynamic dialogue or story without using Yarn.                                        | [Alerson Jorge](https://ajotanc.itch.io/)                           |
 | [Auto Active UI](https://raada.itch.io/auto-active-ui-gdevelop-extension)                                 | Provides a set of behaviors to automatically manage the interactive state of your UI objects. | [Raada](https://raada.itch.io/)                               |
 | [Translate](https://avram.itch.io/translate-gdevelop-extension)                                           | Easily manage translations of your game within external JSON files.                           | [Avram](https://avram.itch.io/)   |
-| [Performance Monitor](https://eldarduil.itch.io/performance-monitor-for-gdevelop)                         | Displays performance overlay (FPS, MS,  MB , Draw Calls, Triangles, Geometries, Texture) using stats.js                           | [Eldarduil](https://eldarduil.itch.io/)   |
+| [Performance Monitor](https://eldarduil.itch.io/performance-monitor-for-gdevelop)                         | Displays performance overlay (FPS, MS,  MB , Draw Calls, Triangles, Geometries, Texture)                           | [Eldarduil](https://eldarduil.itch.io/)   |
 
 ## Visual effect
 
