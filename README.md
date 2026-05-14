@@ -19,6 +19,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Trigger Once Condition for Object](https://github.com/PANDAKO-GitHub/TriggerOnceConditionForObject) | This behavior adds a "Trigger once per instance" condition to the object (instance).                        | [PANDAKO](https://pandako.itch.io/)                                 |
 | [If Else](https://github.com/UlisesFreitas/If-Else-for-GDevelop)                                     | Compare variables with an if/else notation.                                                                 | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [GDAddon](https://github.com/Kravataf/GDA)                                     | Load multiple Javascript "addons" you can access/modify/execute by specific name                                                                 | [Kravataf](https://github.com/Kravataf) |
+| [Quaternion](https://github.com/MooseMakesGames/Quaternion-implementation-in-GDevelop)               | Apply 3D rotation operations                                                                                | [MooseMakesGames](https://github.com/MooseMakesGames)               |
+| [Compare three numbers](https://bubbleone.itch.io/gdevelop-extension-compare-three-numbers) | Check if a value is more than one number and less than another number. | [Bubble](https://bubbleone.itch.io/) |
 
 ## Audio
 
@@ -50,6 +52,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Distance of draw](https://anaw.itch.io/distanceofdraw)           | Make the object disappear if is too far away.                                                                        | [anaw studios](https://anaw.itch.io/)                               |
 | [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)                  | A simple yet powerful system for creating and managing timed combos.                            | [Raada](https://raada.itch.io/)   |
 | [Finite State Machine](https://raada.itch.io/finite-state-machine-gdevelop-extension)  | Adds two powerful Finite State Machine (FSM) behaviors to GDevelop.                             | [Raada](https://raada.itch.io/)   |
+| [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites. | [Puko](https://github.com/pukosnds) |
+| [Change Tilemap ID](https://bubbleone.itch.io/gdevelop-extension-tilemapchangeid) | Change the id of all tiles in a tilemap (not suitable for external tilemaps). | [Bubble](https://bubbleone.itch.io/) |
 
 
 ## General
@@ -83,6 +87,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [THNK](https://github.com/arthuro555/THNK)                                                | An authoritative multiplayer games framework.               | [arthuro555](https://github.com/arthuro555) |
 | [Online Multiplayer](https://pandako.itch.io/ome4gd)                                      | This is an extension for creating online multiplayer games. | [PANDAKO](https://pandako.itch.io/)         |
 | [Photon Realtime Helpers](https://planktonfun.itch.io/gdevelop-5-photon-engine-extension) | Simplifies integration with the Photon JS Realtime SDK      | [planktonfun](https://planktonfun.itch.io/) |
+| [Filepack](https://cokiesyum.itch.io/extensions)                                          | Download and upload zip image and text files.               | [Hiro](https://cokiesyum.itch.io)           |
 
 ## Third-party
 
@@ -104,6 +109,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Fancy Score](https://github.com/UlisesFreitas/FancyScore)                                                | Make a number look fancy like 1 to 0001.                                                      | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Select Box](https://avram.itch.io/selectbox-gdevelop-extension)                                          | A drop down select box for users to choose from multiple items.                               | [Avram](https://avram.itch.io/)                                     |
 | [Load Custom Image](https://omega-slender.itch.io/load-custom-image-extension-for-gdevelop)               | Load custom images using folders, variables, or a dialog box to apply them to sprite objects. | [Omega Slender](https://omega-slender.itch.io/)                     |
+| [Dialogue Box](https://pandako.itch.io/dialog-box-extension)                                              | Dialog Boxes that can be used for RPGs, visual novels, and more.                              | [PANDAKO](https://pandako.itch.io/)                                 |
 | [Dialogue System Combo](https://h0ndred.itch.io/gdevelop-dialogue-system-extension)                       | A simplified dialogue system based on the dialogue tree and yarn.                             | [H0ndred](https://h0ndred.itch.io/)                                 |
 | [Dynamic Dialog Box](https://ajotanc.itch.io/dynamic-dialog-box)                                          | Create a dynamic dialogue or story without using Yarn.                                        | [Alerson Jorge](https://ajotanc.itch.io/)                           |
 | [Auto Active UI](https://raada.itch.io/auto-active-ui-gdevelop-extension)                                 | Provides a set of behaviors to automatically manage the interactive state of your UI objects. | [Raada](https://raada.itch.io/)                               |
@@ -129,10 +135,14 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Material 3D](https://avram.itch.io/material3d-gdevelop-extension)                               | Manipulate 3D material properties of 3D objects.                                 | [Avram](https://avram.itch.io/)                               |
 | [Persona](https://avram.itch.io/persona-gdevelop-extension)                                      | Add personality to game objects.                                                 | [Avram](https://avram.itch.io/)                               |
 | [K3D](https://kravataf.itch.io/gdevelop-extensions)                                      | Add more actions to manipulate threeJS                                                 | [Kravataf](https://github.com/Kravataf)                               |
+| [Outline 3D](https://eldritchtentacles.itch.io/outline3d)                                        | Apply true 3D mesh outline to GLB models.                                        | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [PBR Maps 3D](https://eldritchtentacles.itch.io/pbrmaps3d-gdevelop-extension)                    | Add PBR maps to 3D objects.                                                      | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [Texture 3D](https://eldritchtentacles.itch.io/texture3d-gdevelop-extension)                     | Replace textures or play sprite animations on 3D objects.                        | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [Materials 3D](https://eldritchtentacles.itch.io/materials3d-gdevelop-extension)                 | Change material types and look of 3D objects.                                    | [Eldritch](https://eldritchtentacles.itch.io/) |
 
 # 💪 How to contribute?
 
-If you’d like to have your extension included in the community list, you can do so by either opening [a new issue](https://github.com/GDevelopApp/GDevelop-community-list/issues/new) in the repository or by posting a message on the GDevelop forum. Better, you can open a Pull Request so that the maintainers just have to merge it.
+If you’d like to have your extension included in the community list, you can do so by either opening [a new issue](https://github.com/GDevelopApp/GDevelop-community-list/issues/new) in the repository or by posting a message on the GDevelop forum. Better, you can open [a Pull Request](https://github.com/GDevelopApp/GDevelop-community-list/blob/main/documentation/Submission.md) so that the maintainers just have to merge it.
 
 > [!NOTE]
 > All **developers are welcome** to submit their extensions to the list. Please note that while the repository maintainers will not perform a full code review, any listed extension must be **safe to use** (no malware) and must not contain **illegal or harmful content**. Ensuring basic safety is essential to maintaining a trusted collection of community-contributed extensions.
